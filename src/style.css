@@ -1,0 +1,15 @@
+// All styles come here!
+body{
+	font-family: sans-serif;
+    border-radius: 10px;
+    background-color: rgba(152, 177, 171, 0.06);
+}
+
+.row{
+	width: 100%;
+}
+
+.col{
+	width: 50%;
+	float: left;
+}

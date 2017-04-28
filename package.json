@@ -1,0 +1,26 @@
+{
+  "name": "vehiclesalesdatavisualization",
+  "version": "1.0.0",
+  "description": "Prepare appropriate JSON data to populate both charts.Pie chart shows total vehicle sold per state. Bar chart shows total vehicle sold per quarter. By default all data should be displayed. If user selects any “State” in Pie chart, then bar chart should be refreshed with ONLY the data for selected state. Similarly, if user clicks on any bar in the “Bar Chart” then Pie chart should be refreshed with only the sales data for selected quarter",
+  "main": "index.js",
+  "dependencies": {
+    "angular-nvd3": "^1.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sundeepkotari78/Vehicle-Sales-DataVisualization.git"
+  },
+  "keywords": [
+    "sales"
+  ],
+  "author": "SundeepKotari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sundeepkotari78/Vehicle-Sales-DataVisualization/issues"
+  },
+  "homepage": "https://github.com/sundeepkotari78/Vehicle-Sales-DataVisualization#readme"
+}
